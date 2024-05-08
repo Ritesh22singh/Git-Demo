@@ -1,2 +1,4 @@
 # Git-Demo
-This for test purpose 
+This is for Demo only.
+Admin: Ritesh Kumar
+
